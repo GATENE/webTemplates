@@ -1,0 +1,140 @@
+/* Custom styles */
+
+body {
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 20px;
+	color: #000;
+	background-color: #eeeeee;
+}
+
+
+
+/*div {
+	border: solid 1px red;
+}*/
+
+
+p, ul, h1, h2, h3, h4 {
+	margin:0;
+	padding: 0 0 1em 0;
+}
+
+
+ul {
+	padding: 0 0 1em 3em;
+	
+}
+
+h1 {
+
+
+}
+
+h2 {
+
+}
+
+a {
+
+}
+.well {
+	    -webkit-border-radius: 8px;
+        border-radius: 8px;
+        background-color: #eee;
+        border: 1px solid #d6d6d6;
+}
+.well p, .well h1, .well h2{
+	margin:0;
+	padding: 0;
+    color: #424242;
+}
+
+.btn {
+    text-decoration: none;
+}
+
+.divider {
+    background-color: #aaa;
+    height: 3px;
+    margin-top: 30px;
+}
+
+
+/* ------ PRESET HELPERS ------- */
+.col-padding {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.row-1em-spacer {
+	margin:1em 0 0 0;
+	padding: 0;
+}
+
+.row-2em-spacer {
+	margin:2em 0 0 0;
+	padding: 0;
+}
+
+.clear-lr-margin {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.clear-lr-padding {
+	padding-left:0;
+	padding-right:0;
+}
+
+.add-left-margin {
+	margin-left:15px;
+}
+
+.add-right-margin {
+	margin-right:15px;
+}
+
+.add-top-margin {
+	margin-top:15px;
+}
+
+.add-bottom-margin {
+	margin-bottom:15px;
+}
+
+.add-left-padding {
+	padding-left:15px;
+}
+
+.add-right-padding {
+	padding-right:15px;
+}
+
+.add-top-padding {
+	padding-top: 15px;
+}
+
+.add-bottom-padding {
+	padding-bottom: 15px;
+}
+
+.background-white {
+	background-color: #fff;
+}
+
+/* ------ HEADER ------- */
+
+
+/* ------ NAV ------- */
+
+
+/* ------ BODY ------- */
+
+
+/* ------ FOOTER ------- */
+
+
+
+
+
